@@ -13,6 +13,7 @@ It was very difficult because this was my first project. I only knew how to prog
 - 1x 0.91 inch OLED display
 - 4x M3 Heatsets
 - 4x M3x16 screws
+  
 Case|Schematic|Pcb
 :-:|:-:|:-:|
 <img src=images/case.png/>|<img src=images/schematic.png/>| <img src=images/pcb.png/>
