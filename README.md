@@ -10,6 +10,7 @@ i wanted to create one multipad that can have multiple modes, i added a normal m
 - 8x Cherry MX Switches
 - 8x Blank DSA Keycaps
 - 1x EC11 Rotary encoder
+- 1x 0.91 inch OLED display
 - 4x M3 Heatsets
 - 4x M3x16 screws
   
