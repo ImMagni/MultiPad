@@ -6,4 +6,6 @@ i wanted to create one multipad that can have multiple modes, i added a normal m
 ## Chanllenges
 it was dkfficulr because it was my first proyect, i only know to program but i didint know how to make models pcbs and other things
 ![Texto alternativo](images/schematic.png)
+[abcdefgasdasdawwdas](images/schematic.png)
+(images/schematic.png)
 BOM:
