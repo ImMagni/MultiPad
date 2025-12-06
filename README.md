@@ -1,5 +1,5 @@
 # MultiPad
-## A
-# A
+## BOM
+## Chanllenges
 ![Texto alternativo](images/schematic.png)
 BOM:
