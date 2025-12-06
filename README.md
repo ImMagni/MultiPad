@@ -14,3 +14,5 @@ wuuw
 
 asd
 BOM:
+
+![Texto alternativo](images/schematic.png)
