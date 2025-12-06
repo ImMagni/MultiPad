@@ -1,5 +1,5 @@
 # MultiPad
-<img src=images/full.png/>
+<img src=images/full.png/><br>
 
 ## idk
 i wanted to create one multipad that can have multiple modes, i added a normal mode, a gaming mode, streaming mode and editing mode, with a oled screen that dis0lays what mode u are on
