@@ -1,3 +1,5 @@
 # MultiPad
-![Texto alternativo](images/mi_imagen.png)
+## A
+# A
+![Texto alternativo](images/schematic.png)
 BOM:
