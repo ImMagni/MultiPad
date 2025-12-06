@@ -7,8 +7,8 @@ i wanted to create one multipad that can have multiple modes, i added a normal m
 it was dkfficulr because it was my first proyect, i only know to program but i didint know how to make models pcbs and other things
 ![scheme](images/schematic.png)(images/schematic.png) (images/schematic.png)
 
-CASE|Schematic|'cpcb
+CASE|Schematic|pcb
 :-:|:-:|:-:|
-<img src=images/case/>|<img src=images/schematic.png/>| <img src=images/pcb/>
+<img src=images/case.png/>|<img src=images/schematic.png/>| <img src=images/pcb.png/>
 
 
