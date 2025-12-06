@@ -9,4 +9,5 @@ it was dkfficulr because it was my first proyect, i only know to program but i d
 
 ![Texto alternativo](images/schematic.png)
 
+:-------------------------:|:-------------------------:|:-------------------------:|
 <img src=images/schematic.png/>    |  <img src=images/schematic.png/>  | <img src=images/schematic.png/>
