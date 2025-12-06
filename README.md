@@ -8,3 +8,5 @@ it was dkfficulr because it was my first proyect, i only know to program but i d
 ![scheme](images/schematic.png)(images/schematic.png) (images/schematic.png)
 
 ![Texto alternativo](images/schematic.png)
+
+<img src=images/schematic.png/>    |  <img src=images/schematic.png/>  | <img src=images/schematic.png/>
