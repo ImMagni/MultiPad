@@ -17,4 +17,5 @@ It was very difficult because this was my first project. I only knew how to prog
 Case|Schematic|Pcb
 :-:|:-:|:-:|
 <img src=images/case.png/>|<img src=images/schematic.png/>| <img src=images/pcb.png/>
+Render1|Render2
 <img src=images/render.PNG/>|<img src=images/render2.png/>
