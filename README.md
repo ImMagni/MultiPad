@@ -1,5 +1,5 @@
 # MultiPad
-<img src=images/full.png/><br>
+<img src=images/Full.png/><br>
 ## Why
 I wanted to create a multipad for gaming and other tasks. When the kit arrives, I might add more modes like editing and streaming.
 ## Challenges
@@ -17,3 +17,4 @@ It was very difficult because this was my first project. I only knew how to prog
 Case|Schematic|Pcb
 :-:|:-:|:-:|
 <img src=images/case.png/>|<img src=images/schematic.png/>| <img src=images/pcb.png/>
+<img src=images/render.png/>|<img src=images/render2.png/>| <img src=images/pcb.png/>
